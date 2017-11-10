@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'androidbarcodemaster'" />
-    <option name="defaultScopeName" value="Module 'androidbarcodemaster'" />
+    <option name="customScope" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\androidzxingcore301'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\androidzxingcore301'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Module 'androidbarcodemaster'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\androidzxingcore301'" />
   </component>
 </application>
