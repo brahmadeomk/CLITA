@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\androidzxingcore301'" />
-    <option name="defaultScopeName" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\androidzxingcore301'" />
+    <option name="customScope" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\app'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\app'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\androidzxingcore301'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\brahma\Downloads\clitaApp10062017\clitaApp\app'" />
   </component>
 </application>
